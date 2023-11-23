@@ -5,3 +5,5 @@ def Ja(Norra):
     
     
     Ja('Hisingen')
+    
+    print('Norra>södra')
